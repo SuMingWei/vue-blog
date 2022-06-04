@@ -4,6 +4,7 @@
     <!-- <show-blogs></show-blogs>
     <list-blogs></list-blogs> -->
     <app-header></app-header>
+    <p>hello</p>
     <router-view></router-view>
   </div>
 </template>
